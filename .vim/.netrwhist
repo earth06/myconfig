@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/cygdrive/c/Users/takato/Desktop/toS60'
+let g:netrw_dirhist_2='/cygdrive/c/Users/takato/Desktop/CodeRead/MIROC4.0_ACCMIP/src/proj/CHASERS'
